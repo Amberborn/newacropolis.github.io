@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Новый Акрополь :: Москва :: cайт Нового Акрополя в Москве</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
   </head>
   <body>
     <header class="header">
@@ -12,7 +12,7 @@
         <div class="header_logo">
           <a href="/" class="header_logo_link">
             <img
-              src="/img/svg/na-logo.png"
+              src="./img/svg/na-logo.png"
               alt="Новый Акрополь :: Москва :: cайт Нового Акрополя в Москве"
               class="header_logo-pic"
             />
@@ -21,7 +21,7 @@
 
         <div class="header_city">
           <img
-            src="/img/svg/header_city_plane.png"
+            src="./img/svg/header_city_plane.png"
             alt=""
             class="header_city_plane"
           />
@@ -29,12 +29,12 @@
         </div>
 
         <img
-          src="/img/svg/icon-youtube.svg"
+          src="./img/svg/icon-youtube.svg"
           alt="youtube"
           class="icon_youtube"
         />
-        <img src="/img/svg/icon-zen.svg" alt="star" class="icon_zen" />
-        <img src="/img/svg/icon-audio.svg" alt="audio" class="icon_audio" />
+        <img src="./img/svg/icon-zen.svg" alt="star" class="icon_zen" />
+        <img src="./img/svg/icon-audio.svg" alt="audio" class="icon_audio" />
       </div>
     </header>
 
@@ -60,12 +60,12 @@
             <a href="#!" class="header_link">Контакты</a>
           </li>
         </ul>
-        <img src="/img/svg/icon-zoom.svg" alt="" class="icon_zoom" />
+        <img src="./img/svg/icon-zoom.svg" alt="" class="icon_zoom" />
       </nav>
     </div>
 
     <section class="main_block main_block_img">
-      <img src="/img/svg/main_block-logo.svg" alt="" class="main_block_logo" />
+      <img src="./img/svg/main_block-logo.svg" alt="" class="main_block_logo" />
       <h1 class="title">НОВЫЙ АКРОПОЛЬ</h1>
       <h2 class="title_detail">
         Философская школа,<br />
@@ -78,7 +78,7 @@
       <div class="napravlenya_block_1">
         <div class="napravlenya_icon">
           <img
-            src="/img/svg/icon-torch.svg"
+            src="./img/svg/icon-torch.svg"
             alt=""
             class="napravlenya_icon_img"
           />
@@ -109,7 +109,7 @@
       <div class="napravlenya_block_2">
         <div class="napravlenya_icon">
           <img
-            src="/img/svg/icon-lyra.svg"
+            src="./img/svg/icon-lyra.svg"
             alt=""
             class="napravlenya_icon_img"
           />
@@ -140,7 +140,7 @@
       <div class="napravlenya_block_3">
         <div class="napravlenya_icon">
           <img
-            src="/img/svg/icon-bird.svg"
+            src="./img/svg/icon-bird.svg"
             alt=""
             class="napravlenya_icon_img"
           />
@@ -169,16 +169,16 @@
     </section>
     <section class="afisha_main">
       <div class="afisha_main_content wrapper">
-        <img src="/img/adv_block1-img.jpg" alt="" class="adv_img1" />
-        <img src="/img/adv_block2-img.jpg" alt="" class="adv_img2" />
-        <img src="/img/adv_block3-img.jpg" alt="" class="adv_img3" />
-        <img src="/img/adv_block4-img.jpg" alt="" class="adv_img4" />
-        <img src="/img/adv_block5-img.jpg" alt="" class="adv_img5" />
-        <img src="/img/adv_block6-img.jpg" alt="" class="adv_img6" />
-        <img src="/img/adv_block7-img.jpg" alt="" class="adv_img7" />
-        <img src="/img/adv_block6-img.jpg" alt="" class="adv_img8" />
-        <img src="/img/adv_block6-img.jpg" alt="" class="adv_img9" />
-        <img src="/img/adv_block6-img.jpg" alt="" class="adv_img10" />
+        <img src="./img/adv_block1-img.jpg" alt="" class="adv_img1" />
+        <img src="./img/adv_block2-img.jpg" alt="" class="adv_img2" />
+        <img src="./img/adv_block3-img.jpg" alt="" class="adv_img3" />
+        <img src="./img/adv_block4-img.jpg" alt="" class="adv_img4" />
+        <img src="./img/adv_block5-img.jpg" alt="" class="adv_img5" />
+        <img src="./img/adv_block6-img.jpg" alt="" class="adv_img6" />
+        <img src="./img/adv_block7-img.jpg" alt="" class="adv_img7" />
+        <img src="./img/adv_block6-img.jpg" alt="" class="adv_img8" />
+        <img src="./img/adv_block6-img.jpg" alt="" class="adv_img9" />
+        <img src="./img/adv_block6-img.jpg" alt="" class="adv_img10" />
       </div>
     </section>
 

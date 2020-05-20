@@ -616,7 +616,7 @@ body {
 }
 
 .main_block_img {
-  background: url("/img/main-img.jpg");
+  background: url("../img/main-img.jpg");
   background-repeat: no-repeat;
   background-position: center;
 
